@@ -80,3 +80,4 @@ curl -XPOST -H 'Authorization: Bearer defined_in_constants.ts' -H "Content-type:
 7) Connect with [wallet2](https://github.com/shocknet/wallet2) using the npub response in step 6 or the the wallet application nprofile logged at startup.
 
 
+# Lighting
